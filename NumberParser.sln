@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberParser", "NumberParser\NumberParser.csproj", "{8DDAF8CB-1F1B-473B-B364-E3F0495E07FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberParserTests", "NumberParserTests\NumberParserTests.csproj", "{48B14E40-6FCD-487C-905C-52682984CA9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DDAF8CB-1F1B-473B-B364-E3F0495E07FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DDAF8CB-1F1B-473B-B364-E3F0495E07FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DDAF8CB-1F1B-473B-B364-E3F0495E07FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DDAF8CB-1F1B-473B-B364-E3F0495E07FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48B14E40-6FCD-487C-905C-52682984CA9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48B14E40-6FCD-487C-905C-52682984CA9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48B14E40-6FCD-487C-905C-52682984CA9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48B14E40-6FCD-487C-905C-52682984CA9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC8C0679-7BC2-4C21-94AA-5ECF1AE12F1E}
+	EndGlobalSection
+EndGlobal
